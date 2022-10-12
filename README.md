@@ -1,10 +1,86 @@
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40" />
+
 ## Java Basic
 
 Repositorio con conocimientos fundamentales de Java.
+<br>
+<br>
+<br>
+
+### 📝 Tabla de contenido
+##
+- [Clases](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/FuncionClaseInstancia/FuncionClaseInstancia.java)
+- [Sentencias de control - Bucles](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/SentenciasControl/Bucles.java)
+- [Encapsulación](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Encapsulacion/PrivacidadEncapsulacion.java)
+
+
+<details>
+  <summary>Herencia</summary>
+  
+  - [Abstracción](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Herencia/Abstraccion.java)
+  - [Ejemplo Herencia](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/EjemploHerencia/Ejemplo.java)
+  
+</details>
+
+
+  - [Polimorfismo](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Polimorfismo/Polimorfismo.java)
+  
+<details>
+  <summary>Interfaces</summary>
+  
+  - [Interface](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Interfaz/InterfaceImplementacion.java)
+  - [Ejemplo Interface](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/EjemploInterfaz/Ejemplo.java)
+  
+</details>  
+  
+
+ - [Recursividad](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Recursividad/Recursividad.java)
+ - [Salida de datos - InputStream](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/SalidaDatos/SalidaPrintStream.java)
+ - [Funciones](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Funciones/Funciones.java)
+ - [Concatenación](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Concatenacion/ConcatenacionArray.java)
+
+
+<details>
+  <summary>Entrada de datos</summary>
+  
+  - [Scanner](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/EntradaDatos/ScannerEntrada.java)
+  - [InputStream](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/EntradaDatos/InputStreamDato.java)
+  - [BufferedInputStream](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/EntradaDatos/BufferedInputStreamDato.java)
+  
+</details>
+
+
+<details>
+  <summary>Tipo de datos complejos</summary>
+  
+  - [ArrayList](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/ArrayListDato.java)
+  - [BigDecimal](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/BigDecimalDato.java)
+  - [LinkedList](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/LinkedListDato.java)
+  - [Mapas](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/Mapas.java)
+  - [StringArray](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/StringArray.java)
+  - [Vectores](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/TipoDatosComplejos/Vectores.java)
+  
+</details>
+
+
+ - [Gestión de errores - Try Catch Finally](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/GestionErrores/TryCatchFinally.java)
+ - [Generar Excepciones](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/GenerarException/GenerarExcepciones.java)
+
+##
+
+### Ejercicios varios
+- [ ] [Varios](https://github.com/yazmin-erazo/JavaBasic/blob/main/src/Ejercicios/Varios.java)
+
+
+
+
+
+
 
 <br>
 <br>
-Revisa mis gist 👉 https://gist.github.com/yazmin-erazo
+Tambien puedes ver los gist aqu[i 👉 https://gist.github.com/yazmin-erazo
 
 <br/>
 <br/>
